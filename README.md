@@ -1,6 +1,6 @@
 # Automatic Guitar Tuner
 
-A project for Boğaziçi University's ME 331: Mechatronics class.
+A project for Boğaziçi University's **ME 331: Mechatronics** class.
 
 The project aims to automatically tune a guitar with DC motors by processing sound waves. More information about the project can be found at the following link: https://edizferit.com/project/automatic-guitar-tuner/
 
