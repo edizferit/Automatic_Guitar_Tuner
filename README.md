@@ -9,5 +9,5 @@ The project aims to automatically tune a guitar with DC motors by processing sou
 * Manage the user interface which includes a push button and an LCD screen.
 
 <p align="center">
-  <img src="https://github.com/edizferit/Automatic_Guitar_Tuner/blob/main/figures/preview.jpg?raw=true">
+  <img src="https://github.com/edizferit/Automatic_Guitar_Tuner/blob/main/figures/preview.jpg?raw=true" width="50%">
 </p>
